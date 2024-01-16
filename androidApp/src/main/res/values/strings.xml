@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="signup_button_hint">SIGN UP</string>
+    <string name="login_button_layer">LOG IN</string>
+    <string name="description_logo">Pawtrol_logo</string>
+    <string name="app_name">pawtrol</string>
+    <string name="login_destination_title">Login</string>
+    <string name="signup_destination_title">SignUp</string>
+    <string name="home_destination_title">pawtrol</string>
+    <string name="no_destination_title" />
+    <string name="post_detail_destination_title">Post</string>
+    <string name="comment_header_label">Comments</string>
+    <string name="new_comment_button_label">Add comment</string>
+    <string name="loading_post_error">Oops, an error occured!</string>
+    <string name="retry_button_label">Retry</string>
+    <string name="logout_confirmation_title">You\'re logging out</string>
+    <string name="logout_confirmation_message">Are you sure you want to log out?</string>
+    <string name="logout_confirm_button">Confirm</string>
+    <string name="logout_cancel_button">Cancel</string>
+    <string name="write_post">Write Your Post</string>
+    <string name="location_post">Location</string>
+    <string name="phone_post">Phone Number</string>
+    <string name="create_post">Create Post</string>
+</resources>

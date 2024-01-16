@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850242280954",
+    "project_id": "pawtrol-ciam",
+    "storage_bucket": "pawtrol-ciam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850242280954:android:6bdcba439d3e6e0c0b1843",
+        "android_client_info": {
+          "package_name": "com.example.pawtrolapp.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiubpOIEMtRTamIOGVJj1Amsbcjk0iE1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
